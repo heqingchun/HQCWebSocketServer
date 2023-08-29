@@ -1,0 +1,2 @@
+# HQCWebSocketServer
+基于Qt的WebSocketServer
